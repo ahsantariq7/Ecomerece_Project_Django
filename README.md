@@ -1,9 +1,10 @@
 # Ecomerece_project_Django
 
-- Authentication(Login,Registration,Forget Password)
-- SMTP Protocol
-- Auth Decorator
-- Upload File
-- Employees Separate Login
-- Dashboard
-- Online Tourism Orders/History
+- Authentication(Login,Registration,Forget Password) -->
+- Dynamic
+- Search Product
+- Jquery(Filter Products)
+- Cart --> TemplateTags
+- Slugify
+- ckeditor
+- Class Fuction Based
